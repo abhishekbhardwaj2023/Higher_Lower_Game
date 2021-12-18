@@ -1,3 +1,5 @@
+# Data Provided for Game
+
 data = [
     {
         'name': 'Instagram',
