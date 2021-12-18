@@ -1,3 +1,5 @@
+# Logo images for program
+
 logo = """
     __  ___       __             
    / / / (_)___ _/ /_  ___  _____
